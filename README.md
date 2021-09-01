@@ -4,3 +4,5 @@ Projeto final da disciplina de Introdução a Técnicas de Programação, cujo o
 ## Autores
  - Johny Lúcio Teixeira da Costa
  - José Jardeu Vicente da Silva
+##  Como compilar  o projeto
+- gcc main.c ppmgenerator.c vectorgenerator.c -o main -g -w
