@@ -9,6 +9,6 @@ typedef struct color
 	int R;
 	int G;
 	int B;
-}Color;
+} Pixel;
 
 #endif /* defined __structures__ */
